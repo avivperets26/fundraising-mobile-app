@@ -1,0 +1,39 @@
+@import 'variables';
+
+.top-bar {
+  background-color: rgba(37, 37, 37, 0.209);
+  position: relative;
+  
+
+  > * {
+    display: flex;
+    justify-content: space-between;
+    max-width: $max-container-width;
+    margin: 0 auto;
+  }
+
+  &.transparent {
+    background-color: transparent;
+  }
+}
+
+.back-link {
+  display: flex;
+  text-align: left;
+  .icon {
+    display: inline;
+  }
+  .text {
+    padding: 2px 0;
+  }
+}
+
+.faq-link {
+  float: right;
+  content: ' ';
+  background-image: url('../icons/interaction/info.svg');
+  height: 24px;
+  width: 24px;
+  
+}
+

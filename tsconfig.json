@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "./src",
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "lib": [
+      "es5", "es6", "dom", "dom.iterable"
+  ]
+  }
+}

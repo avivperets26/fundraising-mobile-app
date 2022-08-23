@@ -1,0 +1,35 @@
+.collapsible {
+  @apply mx-5 border-gray-light;
+  border-bottom-width: 1px;
+}
+.collapsible > :first-child::before {
+  float: right;
+  content: ' ';
+  background-image: url('../icons/interaction/expand.svg');
+  height: 22px;
+  width: 10px;
+  margin-left: 10px;
+}
+.collapsible.open > :first-child::before {
+  transform: scaleY(-1);
+
+}
+
+.collapsible-content {
+  overflow: hidden;
+  height: 0;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 160px;
+  //box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.2);
+  transition: all 0.5s ease-in;
+  @apply px-2 text-gray-800;
+}
+
+.collapsible-controls {
+  @apply w-full px-2 py-3 rounded-none text-left cursor-pointer text-gray-800;
+
+  h2 {
+    margin: 0;
+  }
+}

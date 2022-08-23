@@ -1,0 +1,526 @@
+[
+  {
+    "id": "gesellschaft_für_bedrohte_völker",
+    "en": {
+      "title": "Society for threatened peoples",
+      "logo": "gesellschaft_bedrohte_voelker_en.svg",
+      "headline": "Human rights for indigenous peoples and minorities",
+      "body": "<p>The Society for Threatened Peoples (STP) is an international human rights organization that supports minorities and indigenous peoples. It documents human rights abuses, informs and sensitizes the public, and represents the interests of victims against authorities and decision makers. It supports local efforts to improve the human rights situation for minorities and indigenous peoples.</p>"
+    },
+    "logo": "gesellschaft_bedrohte_voelker.svg",
+    "background": "gesellschaft_bedrohte_voelker.jpg",
+    "topics": ["human_rights"],
+    "website": "https://www.gfbv.ch/",
+    "shortId": {"production": "bsvgg"}
+  },
+  {
+    "id": "fastenaktion",
+    "en": {
+      "title": "Lenten Fund",
+      "logo": "fastenaktion_de.svg",
+      "headline": "We wait for rain. But it does not come",
+      "body": "<p>Farmers in the south are desperate: The weather is getting more extreme – Help with a donation. Extreme weather like droughts and floods destroy harvests. Farming families become dependent on emergency aid. With your donation you make an important contribution to the fight against hunger. Your support helps to spread knowledge, seeds and water-saving cultivation methods.<p><p>Thank you very much for your donation! Your Fastenopfer Team</p>"
+    },
+    "background": "fastenopfer.jpg",
+    "logo": "fastenaktion_de.svg",
+    "topics": ["development_cooperation", "human_rights"],
+    "website": "https://fastenaktion.ch/",
+    "shortId": {"production": "wsghw"}
+  },
+  {
+    "id": "grain_of_wheat_international",
+    "en": {
+      "title": "Grain of Wheat International",
+      "logo": "grainofwheat_en.png",
+      "headline": "Because each child matters",
+      "body": "<p>Abandoned, rejected, alone, these are the children Grain of Wheat international embraces with the love of Jesus in 22 countries. Since its creation in Switzerland in 1948, Grain of Wheat brings warmth and hope to children through various programs in education, sport, art, games and sharing. Through your donation, you give a future to Emma, Miguel or Soraya, giving them a fresh start. Thank you</p>"
+    },
+    "logo": "grainofwheat_en.png",
+    "background": "grainofwheat.jpg",
+    "topics": ["development_cooperation", "education", "social_work"],
+    "website": "https://www.grainofwheat.org",
+    "shortId": {"production": "gqsrc"}
+  },
+  {
+    "id": "unicef_schweiz_und_liechtenstein",
+    "en": {
+      "title": "UNICEF Switzerland and Liechtenstein",
+      "logo": "UNICEF_en.png",
+      "headline": "75 years UNICEF",
+      "body": "<p>UNICEF never gives up. The United Nations Children’s Fund is doing everything in its power to create a world in which every child can grow up in dignity and develop their abilities. It is guided by the UN Convention on the Rights of the Child. UNICEF’s aid is aimed at all children – regardless of their skin color, religion, gender or origin. Support UNICEF in its efforts to allow every child in this world the opportunity for a better future.</p>"
+    },
+    "logo": "UNICEF_de.png",
+    "background": "unicef2.jpg",
+    "topics": ["education", "health", "development_cooperation"],
+    "website": "https://www.unicef.ch/",
+    "shortId": {"production": "dwhnm"}
+  },
+  {
+    "logo": "swsieber.svg",
+    "background": "swsieber.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.swsieber.ch",
+    "spotlight": {"show": false},
+    "shortId": {"production": "xmqst"}
+  },
+  {
+    "en": {
+      "title": "Schweizerischer Blinden- und Sehbehindertenverband SBV",
+      "headline": "For blind and visually impaired people",
+      "body": "<p>The Swiss Association for Blind and Visually Impaired People (SBV) is the only national self-help organisation covering visual impairment. Since 1911, it has been supporting blind and visually impaired people in their efforts to lead an independent and self-determined life both at work and in society. The SBV is achieving this aim through advice, training and the promotion of innovative technologies, as well as by educating and raising the awareness of the public.</p>"
+    },
+    "logo": "sbv-fsa.svg",
+    "background": "sbv_fsa.jpg",
+    "topics": ["social_work", "health"],
+    "website": "https://sbv-fsa.ch/",
+    "shortId": {"production": "vzpsy"}
+  },
+  {
+    "id": "swiss_barakah_charity",
+    "en": {
+      "title": "Swiss Barakah Charity",
+      "headline": "Swiss Blessings for everyone!",
+      "body": "<p>Barakah means blessings. Our objective is to extend these blessings to the destitute and the needy around the world. First, by helping poor people become autonomous and get out of poverty. Second, by sending relief and first aid to conflict areas in order to save lives.</p>"
+    },
+    "logo": "barakah.svg",
+    "background": "barakah.jpg",
+    "topics": ["development_cooperation", "health", "social_work"],
+    "website": "https://barakah.ch/",
+    "shortId": {"production": "jqrzv"}
+  },
+  {
+    "en": {
+      "title": "Alpen-Initiative",
+      "headline": "For a livable Alpine space",
+      "body": "<p>The Alpine Initiative aims to protect the unique and ecologically sensitive Alpine region and preserve it as a living space. We are backed by people who love the Alps just as much as we do, and are an independent environmental organisation that is ensuring the implementation of a sustainable transport policy and is committed to effective climate protection.</p></p>Would you like to get involved? Thank you for your donation.</p>"
+    },
+    "logo": "alpeninitiative.svg",
+    "background": "alpeninitiative.jpg",
+    "topics": ["animals"],
+    "website": "https://www.alpeninitiative.ch",
+    "shortId": {"production": "cxwqh"}
+  },
+  {
+    "id": "bienen_schweiz",
+    "en": {
+      "title": "Bee Foundation",
+      "headline": "Support bees in Switzerland",
+      "body": "<p>The purpose of the «Bee Foundation» is to promote and support projects that advocate for bees (honey bees and wild bees) as the most important pollinators and to preserve biodiversity. The Foundation promotes projects throughout Switzerland and supports «BienenSchweiz» in its mission to advocate for honey bees and wild bees in all matters.</p>"
+    },
+    "logo": "stiftung_bienen.svg",
+    "background": "stiftung_bienen.jpg",
+    "topics": ["animals", "education"],
+    "website": "https://www.beefoundation.ch",
+    "shortId": {"production": "mhyzf"}
+  },
+  {
+    "id": "kinderkrebs_schweiz",
+    "en": {
+      "title": "Childhood Cancer Switzerland",
+      "headline": "Together. Committed. To life.",
+      "body": "<p>The umbrella organisation Childhood Cancer Switzerland, in cooperation with its member organisations, is dedicated to improving the situation of children and adolescents with cancer, and their families, throughout Switzerland. This includes medical treatment, psychosocial and follow-up care, as well as childhood cancer research. In addition, Childhood Cancer Switzerland raises public awareness on the subject of childhood cancer and campaigns at federal level for better legal framework conditions for the children affected and their families.</p></p>With your donation, you are supporting this crucial work. Thank you!</p>",
+      "website": "https://www.childhoodcancer.ch"
+    },
+    "logo": "kinderkrebs_schweiz.svg",
+    "background": "kinderkrebs_schweiz.jpg",
+    "topics": ["health"],
+    "website": "https://www.kinderkrebs-schweiz.ch",
+    "shortId": {"production": "sfttf"}
+  },
+  {
+    "id": "pro_infirmis",
+    "en": {
+      "title": "Pro Infirmis",
+      "headline": "Together for people with disabilities",
+      "body": "<p>As umbrella organisation for people with disabilities we stand for autonomy and inclusion. Pro Infirmis advises, accompanies and supports those affected and their relatives. To this end, Pro Infirmis runs a network of counselling centres throughout Switzerland and works to ensure that the dignity of people with disabilities is respected and that they enjoy the same rights as everyone else. We would like to attain this goal together with you and those affected.</p>"
+    },
+    "logo": "Pro_Infirmis.svg",
+    "background": "pro_infirmis.jpg",
+    "topics": ["health", "social_work", "human_rights"],
+    "website": "https://www.proinfirmis.ch/",
+    "shortId": {"production": "tmxjy"}
+  },
+  {
+    "id": "rheumaliga_schweiz",
+    "en": {
+      "title": "Swiss League against Rheumatism",
+      "logo": "rheumaliga_de.png",
+      "headline": "Working together for people with rheumatism",
+      "body": "<p>Advice, encouragement, support: we stand up for everyone affected by rheumatism and we help those living with the disease daily. Your commitment enables people with rheumatic conditions to lead the life they want to, and thus contributes greatly to their quality of life. Your donation to Rheumaliga Schweiz (Swiss League against Rheumatism) flows directly into our various services for the two million people affected by the condition in Switzerland. We are very grateful for your support.</p>"
+    },
+    "logo": "rheumaliga_de.png",
+    "background": "rheumaliga.jpg",
+    "topics": ["health"],
+    "website": "https://www.rheumaliga.ch/",
+    "shortId": {"production": "ythwx"}
+  },
+  {
+    "en": {
+      "title": "ProTier – Stiftung für Tierschutz und Ethik",
+      "headline": "We are committed to the welfare of animals.",
+      "body": "<p>For more than 70 years, ProTier has been campaigning for a fair, ethical treatment of animals. At the heart of our work are projects where active help is provided, animals are rescued and actions are planned. With the support of political activities, we contribute to the fact that necessary changes take place and can be anchored in the law, in order to strengthen so the consciousness for our social responsibility opposite animals and nature.</p>"
+    },
+    "logo": "ProTier.png",
+    "background": "ProTier.jpg",
+    "topics": ["animals"],
+    "website": "https://www.protier.ch",
+    "shortId": {"production": "tynwy"}
+  },
+  {
+    "title": "Lunge Zürich",
+    "en": {
+      "title": "Lung Zurich",
+      "headline": "Breath is life",
+      "body": "<p>For more than 100 years, the Lunge Zürich association has been dedicated to providing for healthy lungs and a high quality of life for people with lung conditions such as COPD, sleep apnoea, asthma and tuberculosis. Your donation allows us to provide a wide range of services for those affected and their families. You are also helping us make an important contribution to prevention, health promotion and research. Thank you for your support.</p>"
+    },
+    "logo": "lunge_zuerich.svg",
+    "background": "lunge_zuerich.jpg",
+    "topics": ["health"],
+    "website": "https://www.lunge-zuerich.ch/",
+    "shortId": {"production": "xstgn"}
+  },
+  {
+    "title": "Buy Food with Plastic",
+    "en": {
+      "headline": "Tackle Hunger & Upcycle",
+      "body": "<p>Plastic bottles as a new currency! Buy Food with Plastic organizes events in Nicaragua, Ghana and India where the local population can pay for warm meals with plastic bottles. They are tackling two main problems: Poverty & Plastic Pollution. As an important side effect, jobs are created, people are sensitized about the issue of plastic and hope is spread.  The collected plastic bottles are recycled into useful and beautiful products.</p>"
+    },
+    "logo": "buy_food_with_plastic.png",
+    "background": "buy_food_with_plastic.jpg",
+    "topics": ["social_work", "animals"],
+    "website": "https://www.buyfoodwithplastic.org/",
+    "shortId": {"production": "tgcfw"}
+  },
+  {
+    "id": "world_bicycle_relief",
+    "title": "World Bicycle Relief",
+    "en": {
+      "headline": "Mobilizing people through “The Power of Bicycles” ",
+      "body": "<p>World Bicycle Relief is committed to helping people conquer the challenge of distance, achieve independence, and thrive. In developing regions of the world, millions of people walk for hours each day just to survive. Distance is a barrier to attending school, receiving healthcare, and delivering goods to market.</p></p>World Bicycle Relief delivers specially designed, rugged bicycles for people in need, empowering students, health workers, and entrepreneurs in rural developing regions with life-changing mobility.</p>"
+    },
+    "logo": "world_bicycle_relief.png",
+    "background": "worldbicyclerelief.jpg",
+    "topics": ["education", "development_cooperation", "health"],
+    "website": "https://worldbicyclerelief.org/",
+    "shortId": {"production": "tmdbw"}
+  },
+  {
+    "title": "Pro Natura",
+    "en": {
+      "headline": "Taking action for nature, everywhere",
+      "body": "<p>Pro Natura is Switzerland’s oldest conservation organization. We love nature, defend its interests, and give it a strong voice. We safeguard more than 700 nature reserves, are involved in politics and environmental education, and engage with the public in order to promote biodiversity and natural landscapes. Thank you for your support!</p>"
+    },
+    "logo": "pronatura.svg",
+    "background": "pronatura.jpg",
+    "topics": ["animals"],
+    "website": "https://www.pronatura.ch",
+    "shortId": {"production": "tgkxp"}
+  },
+  {
+    "en": {
+      "title": "World Vision Switzerland",
+      "logo": "worldvision_en.svg",
+      "headline": "Together for the next generation",
+      "body": "<p>Our vision is a world in which children can grow up healthy and safe, develop and live in peace – without hunger and poverty. Together with local partners, World Vision Switzerland provides long-term development cooperation around the world, provides emergency and disaster aid, advocates children’s rights and actively combats the causes of displacement.</p><p>Let’s create perspectives for the next generation together.</p><p>Thank you for your contribution – you are changing lives!</p>"
+    },
+    "logo": "worldvision_en.svg",
+    "background": "worldvision.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.worldvision.ch",
+    "shortId": {"production": "stmsp"}
+  },
+  {
+    "title": "Pro Senectute Gesamtorganisation",
+    "en": {
+      "headline": "Growing old at home – our wish for everyone",
+      "body": "<p>«Spending our twilight years happy in our own home.» It’s something that we all wish for. Sadly, it’s also a wish that doesn’t come true for everyone in Switzerland. As the country’s most important support and service organisation for elderly people, we are committed to ensuring this changes. Please help us do so. In the spirit of Pro Senectute – we’re stronger together. Thank you very much for your support (or donation).</p>"
+    },
+    "logo": "prosenectute.png",
+    "background": "prosenectute.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.prosenectute.ch",
+    "shortId": {"production": "hfdnf"}
+  },
+  {
+    "id": "médecins_du_monde",
+    "en": {
+      "title": "Médecins du Monde Switzerland",
+      "headline": "Access to health for all",
+      "body": "<p>For more than 25 years, Médecins du Monde has been working to realise a universal and inclusive access to healthcare. Active in Switzerland and in 11 countries, our association is committed to treating the most vulnerable populations, to reporting on obstacles to access to healthcare and to denouncing violations of dignity and human rights.</p>"
+    },
+    "logo": "medecins_du_monde.svg",
+    "background": "medecins_du_monde.jpg",
+    "topics": ["social_work", "health", "development_cooperation"],
+    "website": "https://www.medecinsdumonde.ch",
+    "shortId": {"production": "zkkbt"}
+  },
+  {
+    "id": "kinderschutz_schweiz",
+    "en": {
+      "title": "Protection of Children Switzerland",
+      "headline": "Switzerland in favour of children",
+      "body": "<p>We give children in Switzerland a strong voice.</p><p>Protection of Children Switzerland is an independent private foundation that is active throughout Switzerland. We are a non-profit organization committed to ensuring that all children in Switzer-land grow up with protection and dignity as defined by the United Nations Convention on the Rights of the Child.</p>"
+    },
+    "logo": "kinderschutz.svg",
+    "background": "kinderschutz.jpg",
+    "topics": ["social_work", "human_rights"],
+    "website": "https://www.kinderschutz.ch",
+    "shortId": {"production": "fdbww"}
+  },
+  {
+    "id": "gletscher_initiative",
+    "en": {
+      "title": "Glaciers’ Initiative",
+      "logo": "gletscher_initiative_en.svg",
+      "headline": "For the climate. For all of us",
+      "body": "<p>The Glacier-Initiative was launched in 2019. The popular initiative calls upon Swiss politics to meet its obligations under the Paris Climate Agreement. With campaigns and events, lobbying and with flags on balconies, its supporters advocate for effective climate protection. Make a donation and help the initiative to gain many more people in rural and urban Switzerland engaging for the livelihood of future generations.</p>"
+    },
+    "logo": "gletscher_initiative_en.svg",
+    "background": "gletscher_initiative.jpg",
+    "topics": ["animals"],
+    "website": "https://gletscher-initiative.ch",
+    "shortId": {"production": "zdnbr"}
+  },
+  {
+    "id": "omct",
+    "en": {
+      "title": "World Organisation Against Torture (OMCT)",
+      "logo": "omct_en.png",
+      "headline": "Prevent and Protect",
+      "body": "<p>The OMCT works with 200 member organisations to end torture and ill-treatment, assist victims, and protect human rights defenders at risk wherever they are. Together, we make up the largest global group actively standing up to torture in over 90 countries. We work to protect the most vulnerable members of our societies. To achieve this, we advocate with governments to change or implement their laws and policies, we help victims seek justice and strive to hold perpetrators to account.</p>"
+    },
+    "logo": "omct_en.png",
+    "background": "omct.jpg",
+    "topics": ["human_rights"],
+    "website": "https://www.omct.org",
+    "shortId": {"production": "ncrrs"}
+  },
+  {
+    "id": "glueckskette",
+    "en": {
+      "title": "Swiss Solidarity",
+      "logo": "glueckskette_en.png",
+      "headline": "At service of people in need",
+      "body": "<p>Swiss Solidarity unites the solidarity of people in Switzerland for victims of natural disasters and conflicts abroad. It co-funds projects run by 24 Swiss NGOs active abroad with donations from the public, private companies, the cantons and communes. Swiss Solidarity ensures proper use of these donations through in-depth analyses and evaluations conducted by experts.</p>"
+    },
+    "logo": "glueckskette_de.png",
+    "background": "glueckskette.jpg",
+    "topics": ["social_work", "education", "development_cooperation"],
+    "website": "https://www.swiss-solidarity.org/",
+    "shortId": {"production": "kgdps"}
+  },
+  {
+    "id": "connexio",
+    "en": {
+      "title": "Connexio develop",
+      "headline": "Working together for the good of all",
+      "body": "<p>In the areas of peacebuilding, education, health and rural development, we contribute to more social justice so that marginalized and socially disadvantaged people can improve their livelihoods. We support our partners in Latin America, Asia, on the African continent and in Eastern Central Europe financially and promote the exchange of knowledge and networking. With your donation you are helping to make a more peaceful and just coexistence possible for all people. Thank you very much!</p>"
+    },
+    "logo": "connexio.png",
+    "background": "connexio.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.connexio-develop.ch",
+    "shortId": {"production": "fqpzp"}
+  },
+  {
+    "id": "blindenhundeschule_liestal",
+    "en": {
+      "title": "Guide Dog School Liestal",
+      "headline": "Our dogs help",
+      "body": "<p>As philanthropic organisation, we have provided assistance in professional and social integration to the blind and visually impaired since 1986. We operate an institution specialising in the training of guide dogs for the blind and all support services therewith associated. Together with our four-legged partners, we are able to aid our clients in achieving a high degree of independence. On behalf of all of us, we are very grateful to you for your support.</p>"
+    },
+    "logo": "blindenhundeschule_liestal2.png",
+    "background": "Blindenhundeschule_Liestal.jpg",
+    "topics": ["health", "social_work", "animals"],
+    "website": "https://www.blindenhund.ch/",
+    "shortId": {"production": "kvxty"}
+  },
+  {
+    "id": "sust",
+    "en": {
+      "title": "Susy Utzinger Stiftung für Tierschutz",
+      "headline": "Animal welfare with heart and mind",
+      "body": "<p>Since September 2000, the Susy Utzinger Animal Welfare Foundation (SUST) has been involved at various levels in setting up and optimizing animal welfare projects and animal shelters in Switzerland and in many other countries. In doing so, the Foundation contributes with effective means to sustainably reduce or even prevent animal suffering. Please help us to reduce animal suffering. Thank you very much for your donation.</p>"
+    },
+    "logo": "sust.svg",
+    "background": "sust.jpg",
+    "topics": ["animals"],
+    "website": "https://www.susyutzinger.ch/",
+    "shortId": {"production": "dfvbq"}
+  },
+  {
+    "id": "stiftung_zsge",
+    "title": "Stiftung zsge",
+    "en": {
+      "headline": "Developing perspectives together",
+      "body": "<p>The zsge foundation assumes social responsibility! She advocates for people with difficult and challenging biographies. She supports people in their endeavors to lead a self-determined and socially acceptable life and to take responsibility for their way of life in the future. She achieves this goal with her residential facility «Waffenplatz45» and the workplace «Werkraum4» in Zurich, where these people receive professional advice, guidance and support.</p>"
+    },
+    "logo": "stiftung_zsge.svg",
+    "background": "stiftung_zsge.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.zsge.ch",
+    "shortId": {"production": "qctsh"}
+  },
+  {
+    "id": "pro_mente_sana",
+    "en": {
+      "title": "Pro Mente Sana",
+      "headline": "Swiss Mental Health Foundation",
+      "body": "<p>The Pro Mente Sana Foundation has a dream: all people with mental health problems receive respect and support, gain confidence in their own vitality and can shape a self-determined and equal life. We have been working to realise this dream since 1978. We advise, accompany and support those affected and their relatives. In public, we campaign for the removal of taboos and destigmatisation of mental suffering and raise awareness of mental health issues. Thanks to your donation, we can continue to fulfil these important tasks.</p>"
+    },
+    "logo": "promentesana.png",
+    "background": "promentesana.jpg",
+    "topics": ["health", "social_work", "human_rights"],
+    "website": "https://www.promentesana.ch/",
+    "shortId": {"production": "gqqzq"}
+  },
+  {
+    "id": "sbs_schweiz",
+    "logo": "sbs_schweiz.png",
+    "background": "sbs_schweiz.jpg",
+    "topics": ["social_work", "education"],
+    "website": "https://www.sbs.ch",
+    "shortId": {"production": "xzcmr"}
+  },
+  {
+    "id": "camaquito",
+    "title": "Kinderhilfsorganisation Camaquito",
+    "en": {
+      "headline": "Support children in Cuba",
+      "body": "<p>Camaquito is a politically and religiously independent international child relief organization. Since 2001, it has been supporting children, teenagers and young adults (18-25 years) in Cuba in the fields of education, sports, culture, health and the environment.  Among other things, it focuses on inclusion projects. Camaquito does not distribute money in Cuba, but works directly on the grounds on a project basis. In recent years, thousands of children and their families have benefited in this way.</p>"
+    },
+    "logo": "camaquito.svg",
+    "background": "camaquito.jpg",
+    "topics": ["education", "social_work"],
+    "website": "https://www.camaquito.org",
+    "shortId": {"production": "vvrrj"}
+  },
+  {
+    "id": "make_a_wish_foundation",
+    "title": "Make-A-Wish Foundation of Switzerland",
+    "en": {
+      "headline": "Granting the wishes of seriously ill children",
+      "body": "<p>A Wish gives children hope for the future, strength to face the challenges of their illness and joy through an extraordinary experience.</p><p>A Wish offers a whole family the opportunity to come together to share a great moment of happiness, to find the courage to move forward.</p>"
+    },
+    "logo": "make_a_wish_logo.png",
+    "background": "make_a_wish.jpg",
+    "topics": ["health", "social_work"],
+    "website": "https://www.makeawish.ch/",
+    "shortId": {"production": "xpxkp"}
+  },
+  {
+    "id": "alliance_F",
+    "title": "alliance F",
+    "en": {
+      "headline": "The political voice of women in Switzerland",
+      "body": "<p>alliance F is is the largest and oldest Federation of Women's Associations in Switzerland. We represent the interests of women in order to achieve gender equality in Switzerland – in society, economy and politics. The historic Women's Session 2021 set the course for gender equality in Switzerland. Now it is a matter of following up on the concrete demands. You too can stand up for equality and support us with a donation!</p>"
+    },
+    "logo": "alliance_f.svg",
+    "background": "alliance_F.jpg",
+    "topics": ["human_rights", "social_work"],
+    "website": "https://www.alliancef.ch",
+    "shortId": {"production": "zphtb"}
+  },
+  {
+    "id": "solidar_suisse",
+    "title": "Solidar Suisse",
+    "en": {
+      "logo": "solidar_suisse_en.svg",
+      "headline": "Fighting for global fairness",
+      "body": "<p>We fight for decent work, democratic participation, and social justice worldwide. On behalf of our donors, we put solidarity into action in over 60 projects on four continents. With foresight and ambition we eliminate social wrongs, and create possibilities and prospects for disadvantaged people.</p>"
+    },
+    "logo": "solidar_suisse_de.svg",
+    "background": "solidar_suisse.jpg",
+    "topics": ["human_rights", "social_work", "development_cooperation"],
+    "website": "https://www.solidar.ch",
+    "shortId": {"production": "ykdzm"}
+  },
+  {
+    "id": "welt_ohne_minen",
+    "en": {
+      "title": "World Without Mines",
+      "headline": "For a world without mines",
+      "body": "<p>Mines cause indescribable suffering day after day. But with your help our deminers can go into the minefields and remove hazardous explosives. Every mine deactivated makes people in former war zones safer – every mine deactivated takes us one step closer to a mine-free future.</p><p>Your donation means that,</p><p>- land mines and cluster munitions can be cleared,</p><p>- fields and farmland can be cultivated again,</p><p>- school routes are made safe,</p><p>- people in remote areas – especially children – can be taught what to do if they find a mine,</p><p>- local deminers are employed safely and receive a fair wage.</p>"
+    },
+    "logo": "wom.png",
+    "background": "wom.jpg",
+    "topics": ["social_work", "development_cooperation"],
+    "website": "https://www.wom.ch",
+    "shortId": {"production": "wxhhj"}
+  },
+  {
+    "id": "eth_foundation",
+    "title": "ETH Foundation",
+    "en": {
+      "headline": "Funding bright minds – for the world of tomorrow",
+      "body": "<p>At ETH Zurich, young talents study and conduct research aiming to contribute to solutions for the great challenges of our time. ETH’s talent funding programmes support students who are exceptionally talented but lack the necessary financial resources; outstanding students who promise to excel, and innovative young researchers on their way to founding a business. Thanks to your contribution, the greatest talents get the most out of themselves and help shape the future.</p>"
+    },
+    "logo": "eth_foundation_logo.png",
+    "background": "eth_foundation.jpg",
+    "topics": ["education"],
+    "website": "https://ethz-foundation.ch",
+    "shortId": {"production": "jqcxp"}
+  },
+  {
+    "id": "laureus_foundation",
+    "title": "Laureus Foundation Switzerland",
+    "en": {
+      "headline": "Social sport programmes for children and adolescents",
+      "body": "<p>The aim of the Laureus Foundation Switzerland is to use sport to enable children and adolescents to lead positive and self-determined lives.</p><p>The Foundation therefore supports and develops social sport programmes for children and adolescents in Switzerland – no matter their gender, origin, religion, social background or health limitations.</p>"
+    },
+    "logo": "laureus.png",
+    "background": "laureus.jpg",
+    "topics": ["education", "health", "social_work"],
+    "website": "https://www.laureus.ch/",
+    "shortId": {"production": "zckgz"}
+  },
+  {
+    "id": "biovision",
+    "title": "Biovision",
+    "en": {
+      "headline": "For a world without hunger",
+      "body": "<p>Biovision combats hunger and poverty in East Africa and shares knowledge on organic farming methods. In association with partner organisations, Biovision provides help for self-help, enabling smallholder families to have a self-determined future. Biovision’s systemic approach promotes the development of sustainable food systems in the political arena in Switzerland and worldwide. Support us today with a donation for a world without hunger. Thank you!</p>"
+    },
+    "logo": "biovision.png",
+    "background": "biovision.jpg",
+    "topics": ["development_cooperation", "animals", "education"],
+    "website": "https://www.biovision.ch/home/",
+    "shortId": {"production": "pvvsh"}
+  },
+  {
+    "id": "stiftung_SSBL",
+    "title": "Stiftung für Schwerbehinderte Luzern SSBL",
+    "logo": "stiftung_ssbl.png",
+    "background": "stiftung_ssbl.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.ssbl.ch",
+    "shortId": {"production": "ttjpp"}
+  },
+  {
+    "id": "kinderkrebshilfe_schweiz",
+    "title": "Kinderkrebshilfe Schweiz",
+    "en": {
+      "headline": "We are here. When: «Your child has cancer».",
+      "body": "<p>We provide assistance, help and support. Committed, unbureaucratic, personal. Since 1987.  With holidays, activities, direct financial aid and rehabilitation stays, we give you energy and confidence, because we want to improve the situation of the families affected at all levels. This is the goal at our heart.  Your donation will help and do good. Many thanks.</p>"
+    },
+    "logo": "kinderkrebshilfe_schweiz.svg",
+    "background": "kinderkrebshilfe_schweiz.jpg",
+    "topics": ["health"],
+    "website": "https://www.kinderkrebshilfe.ch",
+    "shortId": {"production": "nxvgf"}
+  },
+  {
+    "id": "stiftung_kinderdorf_pestalozzi",
+    "en": {
+      "title": "Pestalozzi Children's Foundation",
+      "logo": "stiftung_kinderdorf_pestalozzi_en.svg",
+      "headline": "Let's build a world for children",
+      "body": "<p>The Pestalozzi Children's Foundation has been committed to educating children and youngsters since 1946. The Children's Village in Trogen (AR) is a place of intercultural exchange, where young people from different backgrounds meet and gain an understanding of aspects of life that are unfamiliar to them. The foundation’s projects provide disadvantaged children with access to good education in Switzerland and twelve countries around the world. Your support can help us build a world for children.</p>"
+    },
+    "logo": "stiftung_kinderdorf_pestalozzi_de.svg",
+    "background": "stiftung_kinderdorf_pestalozzi.jpg",
+    "topics": ["education", "development_cooperation", "human_rights"],
+    "website": "https://www.pestalozzi.ch",
+    "shortId": {"production": "qvhwh"}
+  }
+]

@@ -1,0 +1,58 @@
+@import 'variables';
+
+.background-img {
+  //background-image: linear-gradient(to top, rgba(0, 0, 0, 0.52), rgba(163, 163, 163, 0.73)),url:'https://assignment-fe.s3.eu-central-1.amazonaws.com/background/sos_kinderdorf.jpg';
+  margin-top: -45px;
+
+  background-size: cover;
+  color: white;
+  
+ 
+  > * {
+    display: flex;
+    justify-content: space-between;
+    max-width: $max-container-width;
+    margin: 0 auto;
+  }
+
+  &.transparent {
+    background-color: transparent;
+  }
+}
+
+.back-link {
+  display: flex;
+  text-align: left;
+  .icon {
+    display: inline;
+  }
+  .text {
+    padding: 2px 0;
+  }
+}
+.h1-background{
+
+height: 27px;
+font-size: 22px;
+font-family: Roboto-Bold;
+font-weight: bold;
+line-height: 26.4px;
+margin-top: -74px;
+padding-bottom: 20px;
+
+}
+.header-details{
+  margin-bottom: 12px;
+ 
+  padding-left: 30px;
+  
+}
+.websiteIcon{
+  align-items: center;
+  display:flex;
+  padding-top: 10px;
+}
+.websiteLink{
+  padding-left: 10px;
+  
+}

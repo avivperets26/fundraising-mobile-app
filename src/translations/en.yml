@@ -1,0 +1,26 @@
+app:
+  back_link: Back
+  title: Frontend assignment
+
+overview:
+  title: Overview
+
+faq:
+  headline: FAQ
+  intro: Here you find answers to important questions about donations with TWINT
+
+impressum:
+  headline: Imprint
+  html: |
+    <p>
+      RaiseNow AG<br>
+      Hardturmstrasse 101<br>
+      8005 Zürich<br>
+      Switzerland<br><br>
+
+      E-mail: <a href="mailto:support@raisenow.com">support@raisenow.com</a><br>
+      VAT No.: CHE-339.167.405<br>
+      Commercial Reg. No.: CH-020.3.042.016-3<br><br>
+
+      <a class="impressum-link" href="https://www.raisenow.com/en/imprint">Further information</a>
+    </p>

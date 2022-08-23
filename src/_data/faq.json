@@ -1,0 +1,35 @@
+{
+  "de": [],
+  "en": [
+    {
+      "question": "Will my total donation amount be given to the selected organisation?",
+      "answer": "For the most part, yes. A small contribution is deducted by TWINT for the transfer and by RaiseNow for providing the donation environment."
+    },
+    {
+      "question": "How can I get a refund of a donation I have already made?",
+      "answer": "Contact the supported organisation directly. You can find a link to the website directly in the organisation’s profile. Depending on the organisation, the refund may take several days."
+    },
+    {
+      "question": "Can I support several organisations at the same time with one donation?",
+      "answer": "Unfortunately this is not possible. Only one organisation can be supported per donation."
+    },
+    {
+      "question": "How do I get a donation receipt for my donation?",
+      "answer": "If you have chosen the option that you would like to receive a donation receipt, you will receive it via email within the next few days. Depending on the organisation, this may take several days."
+    },
+    {
+      "question": "Can I set up recurring donations?",
+      "answer": "Unfortunately this is not possible at the moment. However, we are working intensively to support this as soon as possible."
+    },
+    {
+      "question": "Why do I have to enter my personal data for each donation again?",
+      "answer": "We respect your privacy. That is why we do not store any personal data you have entered in a browser cookie, nor connect them to your TWINT account."
+    },
+    {
+      "question": "Any other questions?",
+      "answer": "Our RaiseNow support team will be happy to help you. Just write us an email at <a href='mailto:support@raisenow.com'>support@raisenow.com</a> and we will get back to you as soon as possible."
+    }
+  ],
+  "fr": [],
+  "it": []
+}

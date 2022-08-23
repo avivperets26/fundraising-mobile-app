@@ -1,0 +1,34 @@
+@import 'variables';
+
+#container {
+  background: linear-gradient(#fff, #f5f5f5);
+  min-height: 100vh;
+
+  > *:not(.w-full) {
+    max-width: $max-container-width;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.page {
+  min-height: 100vh;
+  z-index: 0;
+  @apply bg-gray-100;
+  box-shadow: 0 40px 100px 0 rgba(0, 0, 0, 0.15);
+}
+
+.icon {
+  height: 24px;
+  width: 24px;
+  flex-shrink: 0;
+}
+
+a,
+button {
+  @apply rounded-md;
+  &:active {
+    background-color: rgba(0, 0, 0, 0.02);
+    -webkit-tap-highlight-color: transparent;
+  }
+}

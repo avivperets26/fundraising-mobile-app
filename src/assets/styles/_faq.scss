@@ -1,0 +1,23 @@
+.page.faq {
+  background-color: white;
+
+  .wrapper {
+    @apply px-7 py-4;
+  }
+
+  .headline {
+    display: inline;
+    color: white;
+    background-color: rgba(0, 0, 0, 1);
+    @apply px-2;
+  }
+
+  .intro,
+  .contentHTML {
+    @apply mt-4 text-gray-800;
+  }
+
+  .impressum-link {
+    text-decoration: underline;
+  }
+}

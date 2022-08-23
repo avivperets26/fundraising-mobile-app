@@ -1,0 +1,561 @@
+[
+  {
+    "id": "schweizerisches_rotes_kreuz",
+    "en": {
+      "title": "Swiss Red Cross",
+      "logo": "Red_Cross_en.svg",
+      "headline": "Helping people in need",
+      "body": "<p>People all over the world are suffering from poverty, disease, crises and natural disasters. The Swiss Red Cross (SRC) takes care of them and provides relief, in partnership with the other 191 National Red Cross Societies. It focuses on health and hygiene, integration and migration, social services and rescue operations. It applies its key principle, Humanity, to everything it does.</p><p>Your precious support makes this important humanitarian work possible.</p>"
+    },
+    "topics": [
+      "health",
+      "development_cooperation",
+      "social_work",
+      "human_rights",
+      "education"
+    ],
+    "website": "https://www.redcross.ch",
+    "background": "Red_Cross.jpg",
+    "shortId": {"production": "bqykr"}
+  },
+  {
+    "id": "caritas_schweiz",
+    "en": {
+      "title": "Caritas Switzerland",
+      "headline": "Together against poverty",
+      "body": "<p>Caritas Switzerland is dedicated to helping the most impoverished. We help to fight poverty in Switzerland and worldwide. Even in a time of crisis, such as now with Covid-19, it is the weakest members of society who feel the effects directly. Caritas is therefore actively committed to improving the living conditions of those suffering under poverty. Do you want to join us in the fight against poverty? Then please make a donation and become our comrade-in-arms for this good cause.</p>"
+    },
+    "logo": "Caritas.svg",
+    "background": "Caritas2.jpg",
+    "topics": [
+      "development_cooperation",
+      "social_work",
+      "human_rights",
+      "education"
+    ],
+    "website": "https://www.caritas.ch",
+    "shortId": {"production": "cfjnr"}
+  },
+  {
+    "id": "save_the_children",
+    "title": "Save the Children",
+    "en": {
+      "headline": "For children. In Switzerland and worldwide.",
+      "body": "<p>As leading independent children’s rights organisation, Save the Children has been working specifically for the rights of children since 1919. In Switzerland and around the world, we give children a healthy start in life, the opportunity to learn and protection from harm. When crisis strike, and children are most vulnerable, we are always among the first to respond and the last to leave.</p>"
+    },
+    "logo": "Save_the_Children.png",
+    "background": "Save_the_Children.jpg",
+    "topics": ["development_cooperation", "health", "education"],
+    "website": "https://savethechildren.ch",
+    "shortId": {"production": "ptpzv"}
+  },
+  {
+    "id": "helvetas",
+    "title": "Helvetas",
+    "en": {
+      "headline": "Our Mission",
+      "body": "<p>Helvetas is committed to a just world in which all men and women determine the course of their lives in dignity and security, using environmental resources in a sustainable manner. Together with our partners Helvetas supports poor and disadvantaged women, men and communities in about thirty developing and transition countries in Africa, Asia and Latin America. In Switzerland, Helvetas promotes solidarity and participates in the dialogue on development policy.</p>"
+    },
+    "logo": "Helvetas.svg",
+    "background": "Helvetas.jpg",
+    "topics": ["social_work", "development_cooperation", "environmentalism"],
+    "website": "https://www.helvetas.org",
+    "shortId": {"production": "nyfsy"}
+  },
+  {
+    "id": "berghilfe",
+    "en": {
+      "title": "Swiss Mountain Aid",
+      "headline": "Thriving mountain areas",
+      "body": "<p>Swiss Mountain Aid is a foundation, funded exclusively by donations, that seeks to improve the lives and livelihoods of people living in Swiss mountain areas. We have been serving people in the Swiss mountains since 1943. We support projects that create jobs and add value in mountain areas. By doing so, we discourage migration away from mountain regions so that they remain vibrant.</p>"
+    },
+    "logo": "Berghilfe_de.svg",
+    "background": "Berghilfe.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.berghilfe.ch",
+    "shortId": {"production": "nkzps"}
+  },
+  {
+    "id": "winterhilfe_schweiz",
+    "en": {
+      "title": "Winterhilfe Schweiz",
+      "headline": "Our Mission",
+      "body": "<p>Winterhilfe Schweiz helps people in Switzerland who are affected by poverty and are often overlooked. Poverty means that there is no money for dental treatment and new shoes are a luxury. The menu is monotonous and people only dream of holidays. Social exclusion and stress are commonplace. Corona has increased the plight of the working poor. We have reacted quickly and have supported thousands to date. Fast and uncomplicated.</p>"
+    },
+    "logo": "Winterhilfe.png",
+    "background": "Winterhilfe.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.winterhilfe.ch",
+    "shortId": {"production": "dqkwn"}
+  },
+  {
+    "id": "schweizerischer_zentralverein_für_das_blindenwesen_szblind",
+    "en": {
+      "title": "Swiss National Association of and for the Blind SNABLIND",
+      "logo": "SNAB.png",
+      "website": "https://www.snab.ch",
+      "headline": "For blind people",
+      "body": "<p>In Switzerland there are 377 000 people living with blindness or visual impairments. Since 1903 the Swiss National Association of and for the Blind has been working towards ensuring that people with blindness or visual impairments in Switzerland can live as independently as possible. Among other things we make sure that they have access to aids such as speaking watches, white canes or colour recognition devices at reasonable prices. Support blind and visually impaired people with your donation for auxiliary means allowing them to lead a self-determined life!</p>"
+    },
+    "topics": ["health", "social_work"],
+    "website": "https://www.szblind.ch",
+    "background": "SZB.jpg",
+    "shortId": {
+      "stage": "mpthx",
+      "production": "gkkbk"
+    }
+  },
+  {
+    "id": "freethebees",
+    "en": {
+      "title": "FREETHEBEES",
+      "logo": "FREETHEBEES.png",
+      "headline": "Support honey bees!",
+      "body": "<p>Did you know that the wild honey bee is almost extinct in Swiss nature and yet it is not protected? By beekeepers, the honey bee is intensively kept as a farm animal for honey production. Our solutions are innovative and simple: we are the only Swiss organization that protects and promotes the last remaining wild honey bees; we train beekeepers in species-appropriate and sustainable beekeeping; we enhance landscapes where bees can no longer live. Help bring back the lost balance to the world of honeybees!</p>"
+    },
+    "logo": "FREETHEBEES.png",
+    "background": "freethebees.jpg",
+    "topics": ["animals", "environmentalism", "education"],
+    "website": "http://freethebees.ch",
+    "shortId": {"production": "yxwmx"}
+  },
+  {
+    "id": "stiftung_zürcher_lighthouse",
+    "en": {
+      "title": "Stiftung Zürcher Lighthouse",
+      "logo": "ZuercherLighthouse.svg",
+      "headline": "Palliative Care",
+      "body": "<p>Stiftung Zürcher Lighthouse was established in 1988. It is responsible for the Zürcher Lighthouse. The Lighthouse looks after people who need complex palliative care. We provide persons suffering from incurable diseases, dying persons a place where they can find peace. We help our residents achieve the best-possible quality of life and bid a final farewell with as much independence as possible.</p>"
+    },
+    "logo": "ZuercherLighthouse.svg",
+    "background": "ZuercherLighthouse.jpg",
+    "topics": ["health", "social_work"],
+    "website": "https://www.zuercher-lighthouse.ch/ ",
+    "shortId": {"production": "gwfdn"}
+  },
+  {
+    "id": "stiftung_für_das_tier_im_recht",
+    "en": {
+      "title": "Stiftung für das Tier im Recht",
+      "logo": "TIR.svg",
+      "headline": "Tier im Recht",
+      "body": "<p>Tier im Recht (TIR) has been advocating for a strong legal protection of animals since 1996. The main purpose of TIR’s actions is the continuous improvement of the human-animal relationship in a legal, ethical and social sense.</p>"
+    },
+    "logo": "",
+    "background": "TIR.jpg",
+    "topics": ["animals"],
+    "website": "https://tierimrecht.org/de/",
+    "shortId": {"production": "hydpc"}
+  },
+  {
+    "id": "fondation_partage",
+    "en": {
+      "title": "Fondation Partage",
+      "headline": "Fondation Partage",
+      "body": "<p>Partage, Geneva’s Food bank</p>"
+    },
+    "logo": "partage.png",
+    "background": "partage.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.partage.ch",
+    "shortId": {"production": "xcdgn"}
+  },
+  {
+    "id": "stiftung_menschen_für_menschen",
+    "en": {
+      "title": "Foundation Menschen für Menschen",
+      "headline": "Aid for Ethiopia",
+      "body": "<p>The Foundation Menschen für Menschen works against poverty and hunger. The foundation was founded by the actor Karlheinz Böhm (1928–2014). In the spirit of its founder, the Swiss relief organisation creates life perspectives for the poorest families in Ethiopia. The goal of the work is to enable the people to live in dignity in their homeland. The individual projects focus on the advancement of women, vocational training, microcredits, child aid, family planning and agricultural development.</p>"
+    },
+    "logo": "mfm.svg",
+    "background": "mfm.jpg",
+    "topics": ["development_cooperation", "social_work"],
+    "website": "https://www.mfm.ch",
+    "shortId": {"production": "gksmz"}
+  },
+  {
+    "id": "sos_kinderdorf_schweiz",
+    "en": {
+      "title": "SOS Children’s Villages Switzerland",
+      "logo": "SOS_Childrens_villages.svg",
+      "headline": "We enable children to shape their futures",
+      "body": "<p>SOS Children’s Villages provides a loving home for children in need and strengthens vulnerable families in over 135 countries. Through programmes focusing on education, health and income generation, we enable children and families to shape their own futures.</p><p>Together, we enable children to shape their own futures.</p>"
+    },
+    "logo": "mfm.svg",
+    "background": "sos_kinderdorf.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.sos-kinderdorf.ch/",
+    "shortId": {"production": "jtzjv"}
+  },
+  {
+    "id": "dear_foundation_solidarité_suisse",
+    "en": {
+      "title": "DEAR Foundation-Solidarité Suisse",
+      "logo": "Solidarite_Suisse.svg",
+      "headline": "Offering Solidarity",
+      "body": "<p>DEAR Foundation-Solidarité Suisse is committed to helping people in Switzerland who are in need – due to the Covid pandemic, other diseases or natural disasters. Our primary goal is to enable people to support themselves anew. In doing so, we believe in cooperation at eye level. You too can help to increase solidarity in Switzerland and by making a donation now.</p>"
+    },
+    "logo": "Solidarite_Suisse.svg",
+    "background": "Solidarite_Suisse.jpg",
+    "topics": ["social_work"],
+    "website": "http://solidaritesuisse.ch/",
+    "shortId": {"production": "ddpcd"}
+  },
+  {
+    "id": "medair",
+    "en": {
+      "title": "Medair",
+      "logo": "Medair_en.svg",
+      "headline": "Our Mission",
+      "body": "<p>Where people are affected by conflict and natural disaster, Medair restores health services and supports the immediate needs of people in crises. We go to the most difficult places to save lives and help people recover with dignity. We are an international humanitarian organisation inspired by the Christian faith and guided by the humanitarian principles of neutrality and impartiality.</p>"
+    },
+    "logo": "Medair_it.svg",
+    "background": "Medair.jpg",
+    "topics": ["development_cooperation", "health", "human_rights"],
+    "website": "https://www.medair.org/",
+    "shortId": {"production": "rmjpm"}
+  },
+  {
+    "id": "aids_hilfe_schweiz",
+    "en": {
+      "title": "Swiss AIDS Federation",
+      "logo": "Aids_Hilfe.svg",
+      "headline": "For a Switzerland without HIV",
+      "body": "<p>The Swiss AIDS Federation is active throughout Switzerland: for people living with HIV and their partners, as a reporting office for cases of discrimination and breaches of privacy in the area of HIV/AIDS. With target group-specific prevention and campaigns, it raises awareness about dealing with at-risk situations related to HIV and other sexually transmitted infections. By making a donation you are committing to people living with HIV and promoting the work of the Swiss AIDS Federation.</p>"
+    },
+    "logo": "Aids_Hilfe.svg",
+    "background": "Aids_Hilfe.jpg",
+    "topics": ["health"],
+    "website": "https://aids.ch/",
+    "shortId": {"production": "npchb"}
+  },
+  {
+    "id": "swissaid",
+    "en": {
+      "title": "SWISSAID",
+      "headline": "Changing the picture on hunger.",
+      "body": "<p>Climate crisis, Corona pandemic, hunger: we can only tackle the great challenges of our time by working together. We are all part of the solution: the smallholder farmer in Chad, the donor in Switzerland, the politician in Bern. SWISSAID puts these various parts together – and with its focus onagroecology and equality has an effective tool at its disposal. So that the vision of a world without hunger becomes reality. Piece by piece.</p>",
+      "website": "https://www.swissaid.ch/en/against-hunger/ "
+    },
+    "logo": "swissaid_puzzle.png",
+    "background": "swissaid.jpg",
+    "topics": ["human_rights", "education", "development_cooperation"],
+    "website": "https://www.swissaid.ch/de/gegen-den-hunger/",
+    "shortId": {"production": "yrkmb"}
+  },
+  {
+    "id": "heks",
+    "en": {
+      "title": "HEKS/EPER",
+      "logo": "heks_en.png",
+      "headline": "For a life of dignity",
+      "body": "<p>HEKS/EPER tackles the root causes of poverty and paves the way for people to access vital resources such as land, water, food and education. HEKS/EPER opposes exploitation and helps the downtrodden to organize themselves and claim their rights. The aim is to enable all people, irrespective of ethnicity or religion, to lead a life of self-determination and dignity. Your donation helps the underprivileged and contributes to a more humane and just world.</p>"
+    },
+    "logo": "heks_de.png",
+    "background": "HEKS_EPER.jpg",
+    "topics": ["social_work", "development_cooperation", "human_rights"],
+    "website": "https://www.heks.ch/",
+    "shortId": {"production": "spsqz"}
+  },
+  {
+    "id": "heilsarmee_schweiz",
+    "en": {
+      "title": "Salvation Army Switzerland",
+      "logo": "heilsarmee_en.svg",
+      "headline": "Together for more humanity",
+      "body": "<p>The Salvation Army believes and acts with Jesus Christ at its center, allowing people to experience the love of God and sense of belonging through dignified assistance. Through our programs, we bridge the gap between those in need and our help in the form of food donations, emergency accommodation for the homeless, pastoral services and much more.  Your valuable support is what makes our work possible. </p>"
+    },
+    "background": "heilsarmee.jpg",
+    "topics": ["social_work", "development_cooperation"],
+    "website": "https://www.heilsarmee.ch/",
+    "shortId": {"production": "dbrhg"}
+  },
+  {
+    "id": "greenpeace_schweiz",
+    "en": {
+      "title": "Greenpeace Switzerland",
+      "logo": "Greenpeace.svg",
+      "headline": "",
+      "body": "<p>Greenpeace is a movement of people who are passionate about defending the natural world from destruction. Our vision is a greener, healthier and more peaceful planet, one that can sustain life for generations to come.</p>"
+    },
+    "logo": "Greenpeace.svg",
+    "background": "Greenpeace.jpg",
+    "topics": ["environmentalism", "animals"],
+    "website": "https://www.greenpeace.ch/",
+    "shortId": {"production": "mvyvy"}
+  },
+  {
+    "id": "sos_futures_mamans",
+    "en": {
+      "title": "SOS futures mamans",
+      "headline": "Coronavirus: women and children first",
+      "body": "<p>We are not the only ones to observe that the coronavirus crisis is increasing poverty in Switzerland. The first victims are unfortunately those who are already vulnerable. Among them are women and children. Support us in our work and allow young mothers to raise their children in dignity.</p>"
+    },
+    "logo": "sosfuturemamanlogo.svg",
+    "background": "sosfuturemaman.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.sosfuturesmamans.org",
+    "shortId": {"production": "fvkkz"}
+  },
+  {
+    "id": "pro_juventute",
+    "en": {
+      "title": "Pro Juventute",
+      "logo": "Pro_Juventute.svg",
+      "headline": "There for families",
+      "body": "<p>As the largest Swiss foundation for the support of children and adolescents we get involved where children and adolescents face the greatest challenges. In Pro Juventute, children, adolescents and young adults have a counterpart who hears, sees, understands, strengthens and advocates for them.</p>"
+    },
+    "logo": "Pro_Juventute.svg",
+    "background": "Pro_Juventute.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.projuventute.ch",
+    "shortId": {"production": "nykzf"}
+  },
+  {
+    "id": "universitäts_kinderspital_zürich",
+    "en": {
+      "title": "University Children’s Hospital Zurich",
+      "logo": "KISPI_EN.svg",
+      "headline": "Children are different. This is why we’re different too.",
+      "body": "<p>We offer sick and injured children the best possible chances of recovery. This is why we sometimes go well beyond what is expected in primary medical care. This wouldn’t be possible without the support of our donors. Thanks to people like you, the Children’s Hospital in Zurich is one of the leading centres for paediatric and adolescent medicine in Europe. On behalf of the 100 000 young patients we treat each year, thank you for your dedication.</p>"
+    },
+    "logo": "KISPI_EN.svg",
+    "background": "KISPI.jpg",
+    "topics": ["health"],
+    "website": "https://www.kispi-spenden.ch",
+    "shortId": {"production": "drrbv"}
+  },
+  {
+    "id": "stiftung_züriwerk",
+    "en": {
+      "title": "Züriwerk Foundation",
+      "logo": "zueriwerk.svg",
+      "headline": "Participate",
+      "body": "<p>The current health crisis is an immeasurable challenge for all of us. With your contribution, you support us in setting up a modern communication infrastructure for the benefit of everyone in the Züriwerk Foundation: residents, employees, specialist staff and external persons such as relatives, customers, partners and authorities.</p>"
+    },
+    "logo": "zueriwerk.svg",
+    "background": "zueriwerk.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.zueriwerk.ch",
+    "shortId": {"production": "pbfrh"}
+  },
+  {
+    "id": "plusport",
+    "en": {
+      "title": "PluSport",
+      "headline": "Disabled Sports Switzerland",
+      "body": "<p>Since 1960 we have been committed to people with disabilities and their sport. Today PluSport is the competence centre for sport, disability and inclusion.</p>"
+    },
+    "logo": "plusport.svg",
+    "background": "plusport.jpg",
+    "spotlight": {"image": "plusport-featured.jpg"},
+    "topics": ["social_work", "health"],
+    "website": "https://www.plusport.ch",
+    "shortId": {"production": "xpygg"}
+  },
+  {
+    "id": "schweizerischer_gehörlosenbund_sgb_fss",
+    "en": {
+      "title": "Swiss Federation of the Deaf",
+      "logo": "SGB-FSS_d-f-i-e.svg",
+      "headline": "For deaf people",
+      "body": "<p>Deaf people are still disadvantaged. Since 1946, the Swiss Federation of the Deaf has been committed to the rights of these people and the removal of their access barriers to education, work, health and culture. We are committed to ensuring that deaf children are supported at an early age: So that they can communicate with their parents, learn the same material at school and later pursue a profession. In addition, we advocate for sign language – the native language of deaf people.</p>"
+    },
+    "logo": "SGB-FSS_de.svg",
+    "background": "SGB-FSS.jpg",
+    "topics": ["social_work", "health", "education"],
+    "website": "https://www.sgb-fss.ch",
+    "shortId": {"production": "vkrmc"}
+  },
+  {
+    "id": "wikimedia_ch",
+    "en": {
+      "title": "Wikimedia CH",
+      "headline": "Association for the advancement of free knowledge",
+      "body": "<p>Wikipedia is the 5th most visited website in Switzerland and therefore one of our most important sources of information. We are committed to supporting Wikipedia and the other Wikimedia projects, because access to free and qualitative knowledge is the basis of an informed and open society. Do you also value free access to objective and reliable information, completely free of advertising? Then support us today with a tax-deductible donation.</p>"
+    },
+    "logo": "wikimedia_CH.svg",
+    "background": "Wikimedia_CH.jpg",
+    "topics": ["education"],
+    "website": "https://wikimedia.ch",
+    "shortId": {"production": "hkdgv"}
+  },
+  {
+    "id": "schweizer_zakatstiftung",
+    "en": {
+      "title": "Swiss Zakat Foundation",
+      "logo": "zakat_en.svg",
+      "headline": "Zakat connects us",
+      "body": "<p>The Swiss Foundation for Zakat is the first and only Swiss institution aiming to collect and redistribute zakat in a professional and transparent manner here in Switzerland. Our aim is to support people in precarious situations, to finance education and research projects, to invest in the leaders of tomorrow, and to support projects with social and spiritual significance in Switzerland. In short, a local zakat for local needs.</p>"
+    },
+    "background": "zakat.jpg",
+    "topics": ["social_work", "education"],
+    "website": "https://www.zakatsuisse.ch",
+    "shortId": {"production": "sjtpn"}
+  },
+  {
+    "id": "amnesty_international",
+    "en": {
+      "title": "Amnesty International",
+      "logo": "amnesty.svg",
+      "headline": "Let’s protect human rights together",
+      "body": "<p>With over ten million members and supporters worldwide, Amnesty International stands up for freedom and justice. Amnesty International takes action when people are threatened and denied their rights. We strengthen the work of human rights defenders. We document and expose human rights violations all over the world.</p><p>Our strength and success depend on the commitment and support of people like you. Thank you for your donation.</p>"
+    },
+    "logo": "amnesty.svg",
+    "background": "amnesty.jpg",
+    "topics": ["human_rights", "education", "development_cooperation"],
+    "website": "https://www.amnesty.ch",
+    "shortId": {"production": "qzwxg"}
+  },
+  {
+    "id": "krebsliga_schweiz",
+    "en": {
+      "title": "Swiss Cancer League",
+      "logo": "krebsliga_de.svg",
+      "headline": "Together against cancer",
+      "body": "<p>Every third person is confronted with a cancer diagnosis in the course of their life. The Cancer League is there for all those affected and their relatives in this difficult life situation. As a centre of competence for all questions relating to cancer, it plays a leading role throughout Switzerland in counselling and support, in the prevention and early detection of cancer and in the promotion of research – and has done so for over a hundred years.</p>"
+    },
+    "logo": "krebsliga_de.svg",
+    "background": "krebsliga.jpg",
+    "topics": ["health", "education"],
+    "website": "https://www.krebsliga.ch",
+    "shortId": {"production": "wyvnp"}
+  },
+  {
+    "id": "sos_beobachter",
+    "en": {
+      "title": "SOS Beobachter Foundation",
+      "logo": "stiftung_sos_beobachter.svg",
+      "headline": "Fight poverty in Switzerland",
+      "body": "<p>The SOS Beobachter Foundation supports people living in Switzerland who are in need of long-term or emergency financial help because of various reasons: social, health-related, or otherwise. The SOS Beobachter Foundation greatly values the fact that a donation can sustainably improve a person’s situation, or at least make it bearable. Financial aid is given only if requests are justified.</p>"
+    },
+    "logo": "stiftung_sos_beobachter.svg",
+    "background": "stiftung_sos_beobachter.jpg",
+    "topics": ["social_work"],
+    "website": "https://www.beobachter.ch/sos-beobachter",
+    "shortId": {"production": "xqkbs"}
+  },
+  {
+    "id": "stiftung_denk_an_mich",
+    "en": {
+      "title": "Denk an mich Foundation",
+      "logo": "denk_an_mich.svg",
+      "headline": "Holidays and leisure activities for people with disabilities",
+      "body": "<p>Our charity exists to let people with disabilities enjoy equal participation in social life, especially holidays and leisure activities that many can’t afford. Founded over 50 years ago, we are the solidarity foundation of Swiss Radio and Television SRF.</p>"
+    },
+    "logo": "denk_an_mich.svg",
+    "background": "denk_an_mich.jpg",
+    "topics": ["social_work"],
+    "website": "https://denkanmich.ch/",
+    "shortId": {"production": "ddwfg"}
+  },
+  {
+    "id": "solidarmed",
+    "en": {
+      "title": "SolidarMed",
+      "logo": "solidarmed_en.svg",
+      "headline": "For people in need of health!",
+      "body": "<p>Births, diseases, accidents. All people worldwide have a right to health. With your donation, more than 2.5 million people gain access to medical care in rural Africa. We support local health workers with training, equip targeted hospitals and health centres and provide medical treatment for the poorest through our partners. With your donation you support people in need of health care. </p>"
+    },
+    "logo": "solidarmed_de.svg",
+    "background": "solidarmed.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.solidarmed.ch ",
+    "shortId": {"production": "vkqfq"}
+  },
+  {
+    "id": "aha_allergiezentrum_schweiz",
+    "en": {
+      "title": "aha! Swiss Allergy Centre",
+      "logo": "aha.svg",
+      "headline": "Support for people with allergies and food intolerances",
+      "body": "<p>In Switzerland three million people are affected by some form of allergy and intolerance. Many are greatly restricted in their health and well-being. Well-informed and advised, these people are finding their way back to greater quality of life. aha! Swiss Allergy Centre supports them on this path.</p>"
+    },
+    "logo": "aha.svg",
+    "background": "aha.jpg",
+    "topics": ["health"],
+    "website": "https://www.aha.ch",
+    "shortId": {"production": "mcwkd"}
+  },
+  {
+    "id": "stiftung_paneco",
+    "en": {
+      "title": "Foundation PanEco",
+      "headline": "Nature conservation in Indonesia and Switzerland",
+      "body": "<p>The Swiss foundation PanEco, based in the Zurich wine county, has been campaigning for nature conservation, species protection and environmental education in Switzerland and Indonesia since 1996. The NGO operates three programmes: the Sumatran Orangutan Conservation Programme SOCP, the Berg am Irchel bird of prey sanctuary and the Thurauen nature centre. PanEco’s focus is on habitat conservation, such as protecting the tropical rainforest.</p>"
+    },
+    "logo": "PanEco.svg",
+    "background": "PanEco.jpg",
+    "topics": ["animals"],
+    "website": "https://www.paneco.ch",
+    "shortId": {"production": "jfpns"}
+  },
+  {
+    "id": "hilfswerk_morija",
+    "en": {
+      "title": "Association Morija",
+      "logo": "morija_en.png",
+      "headline": "Together, let’s save and transform lives",
+      "body": "<p>Morija has been a Swiss NGO since 1979. It helps the poorest populations in sub-Saharan Africa. This region of the world is one of the poorest on the planet, political instabilities, terrorism and climate change weaken it. Help Morija bring humanitarian aid to poor people and tackle deepening poverty in sub-Saharan Africa. Support us and together, let’s save lives!</p><p>Morija, an NGO on a human scale.</p>"
+    },
+    "logo": "morija_de.png",
+    "background": "morija.jpg",
+    "topics": ["development_cooperation", "health", "education"],
+    "website": "https://www.morija.org/",
+    "shortId": {"production": "vjtwj"}
+  },
+  {
+    "id": "terre_des_hommes_schweiz",
+    "en": {
+      "title": "terre des hommes schweiz",
+      "logo": "terre_des_hommes_schweiz_en.svg",
+      "headline": "Opportunities for young people",
+      "body": "<p>terre des hommes schweiz has been supporting the economic, political and social self-determination of young people in ten African and Latin American countries for over 60 years. In the project countries, we work together with local partner organisations. The focus of our work is on violence prevention, education and income as well as health. In Switzerland, we are involved in campaigns on development policy issues. Thanks to your donation, we can continue our work. Thank you very much!</p>"
+    },
+    "logo": "terre_des_hommes_schweiz_de.svg",
+    "background": "terre_des_hommes_schweiz.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.terredeshommesschweiz.ch/",
+    "shortId": {"production": "nqbpn"}
+  },
+  {
+    "id": "schweizerische_multiple_sklerose_gesellschaft",
+    "en": {
+      "title": "Schweizerische Multiple Sklerose Gesellschaft",
+      "logo": "ms_gesellschaft_en.png",
+      "headline": "MS – The disease with 1000 faces",
+      "body": "<p>The Swiss. MS Society has been THE partner for around 15 000 persons suffering in MS in Switzerland since 1959. Children and young people can also be affected by this incurable, chronically progressive disease in which the immune system turns against its own body. We support, accompany and advise persons with MS and their families, offer further education and relief services and raise public awareness. Our work is 80 % financed by donations, without financial support from the pharmaceutical industry.</p>"
+    },
+    "logo": "MS_gesellschaft_de.svg",
+    "background": "MS_Gesellschaft.jpg",
+    "topics": ["health", "social_work"],
+    "website": "https://www.multiplesklerose.ch/",
+    "shortId": {"production": "hdghc"}
+  },
+  {
+    "id": "krebsforschung_schweiz",
+    "en": {
+      "title": "Swiss cancer research",
+      "headline": "Finding cures faster",
+      "body": "<p>The Swiss Cancer Research Foundation supports research projects that have a wide variety of orientations and methodologies. These projects have only one thing in common: they aim to improve the survival rate and quality of life for cancer patients</p>"
+    },
+    "logo": "krebsforschung.svg",
+    "background": "krebsforschung.jpg",
+    "topics": ["health"],
+    "website": "https://www.krebsforschung.ch/",
+    "shortId": {"production": "jddtb"}
+  },
+  {
+    "id": "missio",
+    "en": {
+      "title": "Missio",
+      "headline": "Pontificial Mission Societies",
+      "body": "<p>Missio provides needy dioceses in Africa, Asia, Latin America and Oceania with an annual basic contribution for their pastoral and social tasks. This funds the training of church staff, the necessary infrastructure and nutrition or health programmes. In Switzerland, Missio promotes solidarity awareness among adults and children through campaign work. Thank you for your contribution.</p>"
+    },
+    "logo": "missio.svg",
+    "background": "missio.jpg",
+    "topics": ["development_cooperation"],
+    "website": "https://www.missio.ch",
+    "shortId": {"production": "qzcrj"}
+  }
+]
